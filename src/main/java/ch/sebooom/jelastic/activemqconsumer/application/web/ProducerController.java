@@ -1,4 +1,4 @@
-package ch.sebooom.jelastic.activemqproducer.application.web;
+package ch.sebooom.jelastic.activemqconsumer.application.web;
 
 
 import org.springframework.beans.factory.annotation.Autowired;

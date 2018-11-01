@@ -1,9 +1,7 @@
-package ch.sebooom.jelastic.activemqproducer;
+package ch.sebooom.jelastic.activemqproducer.infrastructure.jms.test;
 
 import lombok.Getter;
 import lombok.ToString;
-
-import java.util.Date;
 
 @Getter
 @ToString
